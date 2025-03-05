@@ -1,7 +1,10 @@
-# Projeto family galeria 3D
-## Segue o link:
-<https://family-azure-omega.vercel.app/>
+# Projeto: family galeria 3D
+
+![tenor](https://github.com/user-attachments/assets/fec85c09-569b-4ef1-a530-1fc5e7d2bb4b)
 #
-![image](https://github.com/user-attachments/assets/3ad7d7e6-98ba-4820-8008-f4aba91a2c5a)
+## Tecnologias
+* HTML
+* CSS
+* Flex-box
 
 
